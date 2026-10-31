@@ -1,7 +1,5 @@
 [
   { "id": 1, "item": "Ravi" },
-  { "id": 2, "item": "Rakesh" },
-    { "id": 3, "item": "Arun" },
-    { "id": 4, "item": "Suresh" }
+  { "id": 2, "item": "Rakesh" }
 
 ]
